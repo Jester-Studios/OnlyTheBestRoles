@@ -4,7 +4,7 @@ An Among Us role mod with custom roles and abilities meant to be beginner-friend
 # How to install the mod
 1.Dowload the .zip file that matches your Among Us game version Steam/itch.io : OTBR-v1.0-steam-itch.io.zip, Epic Games/MS store: OTBR-v1.0-epic-mss-.zip click [here](https://github.com/Jester-Studios/OnlyTheBestRoles/releases/tag/AmongUs-mod) To download the mod files
 
-2.Cpoy the files.
+2.Copy the files.
 
 3.On steam go to Library > Among Us > settings > Manage > browse local files. Then paste the copied files in the folder you just opened. for Epic Games its the same proccess but instead of "browse local files" it should have a folder icon.
 
