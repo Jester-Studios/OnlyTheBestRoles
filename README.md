@@ -9,3 +9,8 @@ An Among Us role mod with custom roles and abilities meant to be beginner-friend
 3.On steam go to Library > Among Us > settings > Manage > browse local files. Then paste the copied files in the folder you just opened. for Epic Games its the same proccess but instead of "browse local files" it should have a folder icon.
 
 4.Go to the Desktop, right click Among Us and click open If succseful, Bepinex should open and it will take a few minutes but after Bepinex is done, Among Us should open with the mod installed
+
+# Copyright
+This mod is not affiliated with Among Us or Innersloth LLC, and the content contained therein is not endorsed or otherwise sponsored by Innersloth LLC. Portions of the materials contained herein are property of Innersloth LLC.
+
+© Innersloth LLC.
