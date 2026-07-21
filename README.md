@@ -2,7 +2,7 @@
 An Among Us role mod with custom roles and abilities meant to be beginner-friendly yet complex for Among Us users that are newer to Among Us modding but nothing has been posted yet. Make sure to follow if you like the mod! Also I would like more mod ideas so if you have any you can put it in the issues tab.
 
 # How to install the mod
-1.Dowload the .zip file that matches your Among Us game version Steam/itch.io : OTBR-v1.0-steam-itch.io.zip, Epic Games/MS store: OTBR-v1.0-epic-mss-.zip click [here](https://github.com/Jester-Studios/OnlyTheBestRoles/releases/tag/AmongUs-mod) <#FF000>To download the mod files
+1.Dowload the .zip file that matches your Among Us game version Steam/itch.io : OTBR-v1.0-steam-itch.io.zip, Epic Games/MS store: OTBR-v1.0-epic-mss-.zip click [here](https://github.com/Jester-Studios/OnlyTheBestRoles/releases/tag/AmongUs-mod) \uffa0To download the mod files
 
 2.Copy the files.
 
