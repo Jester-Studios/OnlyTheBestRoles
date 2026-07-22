@@ -2,7 +2,7 @@
 An Among Us role mod with custom roles and abilities meant to be beginner-friendly yet complex for Among Us users that are newer to Among Us modding but nothing has been posted yet. Make sure to follow if you like the mod! Also I would like more mod ideas so if you have any you can put it in the issues tab.
 
 # How to install the mod
-1.Dowload the .zip file that matches your Among Us game version Steam/itch.io : OTBR-v1.0-steam-itch.io.zip, Epic Games/MS store: OTBR-v1.0-epic-mss-.zip click [here](https://github.com/Jester-Studios/OnlyTheBestRoles/releases/tag/AmongUs-mod) To[ ](https://github.com/Jester-Studios/OnlyTheBestRoles/releases/tag/AmongUs-mod)download the mod files
+1.Dowload the .zip file that matches your Among Us game version Steam/itch.io : OTBR-v1.0-steam-itch.io.zip, Epic Games/MS store: OTBR-v1.0-epic-mss-.zip click [here](https://github.com/Jester-Studios/OnlyTheBestRoles/releases/tag/AmongUs-mod) To download the mod files
 
 2.Copy the files.
 
@@ -14,3 +14,10 @@ An Among Us role mod with custom roles and abilities meant to be beginner-friend
 This mod is not affiliated with Among Us or Innersloth LLC, and the content contained therein is not endorsed or otherwise sponsored by Innersloth LLC. Portions of the materials contained herein are property of Innersloth LLC.
 
 © Innersloth LLC.
+
+# Inspiration and Credits
+This Among Us mod was inspired by [Town Of Us : Mira](https://github.com/AU-Avengers/TOU-Mira) by AU-Avengers and [TheOtherRoles](https://github.com/TheOtherRolesAU/TheOtherRoles) by TheOtherRolesAU.
+
+This mod is made using [MiraAPI](https://github.com/All-Of-Us-Mods/MiraAPI) by All-Of-Us-Mods.
+
+Most of these roles in the mod are not made by me and have been based off of other Among Us mods.
